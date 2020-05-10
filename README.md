@@ -20,11 +20,15 @@ on noisy problems. Since D learns much faster than G, we set the learning rate f
 
 Generator (left) and Discriminator (right) losses
 
-![](loss.png)
+<p align="center">
+  ![](loss.png)
+</p>  
 
 Progress of generator
 
+<p align="center">
   ![](anime_DCGAN.gif)
+</p>  
 
 ## Results
 
