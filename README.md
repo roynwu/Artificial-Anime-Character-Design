@@ -36,6 +36,10 @@ Progress of generator
 
 ## LSGAN StyleGAN
 
+<p align="center">
+  <img src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/StyleGAN-fakes.jpg">
+</p>  
+
 See more information and details in notebook and report.
 
 ## Conclusion
