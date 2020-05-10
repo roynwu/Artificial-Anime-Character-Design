@@ -34,7 +34,13 @@ Progress of generator
 
 ![](dc_real_v_fake.png)
 
-## LSGAN StyleGAN
+## LSGAN 
+
+See more information and details in notebook and report.
+
+## StyleGAN
+
+Results
 
 <p align="center">
   <img src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/StyleGAN-fakes.jpg">
