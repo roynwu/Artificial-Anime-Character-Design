@@ -21,7 +21,7 @@ on noisy problems. Since D learns much faster than G, we set the learning rate f
 Generator (left) and Discriminator (right) losses
 
 <p align="center">
-  <img src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/loss.png">
+  <img width="800" src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/loss.png">
 </p>  
 
 Progress of generator
@@ -32,7 +32,9 @@ Progress of generator
 
 ## Results
 
-![](dc_real_v_fake.png)
+<p align="center">
+  <img width="800" src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/dc_real_v_fake.png">
+</p>  
 
 ## LSGAN 
 
@@ -43,7 +45,7 @@ See more information and details in notebook and report.
 Results
 
 <p align="center">
-  <img src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/StyleGAN-fakes.jpg">
+  <img width="800" src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/StyleGAN-fakes.jpg">
 </p>  
 
 See more information and details in notebook and report.
