@@ -57,7 +57,7 @@ introducing several practical training strategies, we showed that DCGANs can pro
 
 ## Acknowledgement 
 
-We acknowledge NVIDIA for their open-source StyleGAN implementation (Karras et al., 2019), Google for the Inception V3 model (Google, 2015), and mseitzer for the FID calculation code(Mseitzer, 2020).
+We acknowledge NVIDIA for their open-source StyleGAN implementation (Karras et al., 2019), Google for the Inception V3 model (Google, 2015), and mseitzer for the FID calculation code (Mseitzer, 2020).
 
 ## References
 
