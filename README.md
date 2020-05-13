@@ -21,7 +21,7 @@ on noisy problems. Since D learns much faster than G, we set the learning rate f
 Generator Loss (left) and Discriminator Loss (right)
 
 <p align="center">
-  <img width="500" src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/loss.png"> 
+  <img width="700" src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/loss.png"> 
 </p>  
 
 Progress of generator
