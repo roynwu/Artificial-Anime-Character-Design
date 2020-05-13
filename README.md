@@ -51,7 +51,7 @@ Results
 FID Score Comparison
 
 <p align="center">
-  <img width="800" src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/FID_score.png">
+  <img width="350" src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/FID_scores.png">
 </p> 
 
 See more information and details in notebook and report.
