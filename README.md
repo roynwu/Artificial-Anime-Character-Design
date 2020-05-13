@@ -18,10 +18,16 @@ on noisy problems. Since D learns much faster than G, we set the learning rate f
 
 ## Training
 
-Generator (left) and Discriminator (right) losses
+Generator Loss
 
 <p align="center">
-  <img width="800" src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/loss.png">
+  <img width="350" src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/DClossG.png">
+</p>  
+
+Discriminator Loss
+
+<p align="center">
+  <img width="350" src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/DClossD.png">
 </p>  
 
 Progress of generator
