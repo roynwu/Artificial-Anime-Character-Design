@@ -46,7 +46,13 @@ Results
 
 <p align="center">
   <img width="800" src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/StyleGAN-fakes.jpg">
-</p>  
+</p> 
+
+FID Score Comparison
+
+<p align="center">
+  <img width="800" src="https://github.com/roynwu/Artificial-Anime-Character-Design/blob/master/FID_score.png">
+</p> 
 
 See more information and details in notebook and report.
 
